@@ -1,0 +1,1 @@
+{"version":2,"name":"python-flask-test-zeit","builds":[{"src":"**/*.py","use":"@now/python"},{"src":"css/**","use":"@now/static"}]}
